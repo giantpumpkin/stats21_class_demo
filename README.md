@@ -1,4 +1,4 @@
-# stats21_class_demo
+# introducing myself
 My name is Chaeyeon Lim.
 I am a transfer student. 
 I studied at Santa Monica college.
